@@ -1,0 +1,12 @@
+{
+    "name": "anari/cms",
+    "description": "first package for learning",
+    "autoload": {
+        "psr-4": {
+            "Anari\\Cms\\": "src/"
+        }
+    },
+    "require":{
+        "Illuminate/support" : "5"
+    }
+}
